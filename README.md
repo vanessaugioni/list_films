@@ -7,8 +7,6 @@ Aplicativo desenvolvido em React Native com Expo para demonstrar:
 - Componentes com React Native Paper
 - Navegação entre telas
 
----
-
 ## 📱 Tecnologias utilizadas
 
 - React Native
@@ -16,8 +14,6 @@ Aplicativo desenvolvido em React Native com Expo para demonstrar:
 - React Navigation
 - React Native Paper
 - API REST
-
----
 
 ## 🚀 Funcionalidades
 
