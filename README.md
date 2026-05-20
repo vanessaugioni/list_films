@@ -1,4 +1,4 @@
-# 🎬 Lista de Filmes App
+## 🎬 Lista de Filmes App
 
 Aplicativo desenvolvido em React Native com Expo para demonstrar:
 
@@ -9,7 +9,7 @@ Aplicativo desenvolvido em React Native com Expo para demonstrar:
 
 ---
 
-# 📱 Tecnologias utilizadas
+## 📱 Tecnologias utilizadas
 
 - React Native
 - Expo
@@ -19,7 +19,7 @@ Aplicativo desenvolvido em React Native com Expo para demonstrar:
 
 ---
 
-# 🚀 Funcionalidades
+## 🚀 Funcionalidades
 
 ✅ Listagem de filmes  
 ✅ Tela de detalhes  
